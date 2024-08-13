@@ -1,10 +1,9 @@
 # youtube-download-mp3-conversion
 This project downloads youtube videos and convert them into mp3 audio files
 
-This project downloads youtube videos and transforms them into mp3 files 
 The links of related Youtube videos are listed in links.txt file.
 
-The used script was run on Ubuntu 18 LTS
+The used script was run on Ubuntu 18 LTS but it can be executed on later versions as well.
 
 Make sure you install the latest version of "youtube-dl"
 
